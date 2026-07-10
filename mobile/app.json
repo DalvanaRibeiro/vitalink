@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Vitalink Resgate",
+    "slug": "vitalink-resgate",
+    "version": "1.0.0",
+    "scheme": "vitalink",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router", "expo-secure-store", "expo-location"]
+  }
+}
